@@ -59,3 +59,11 @@ Replace ../library with the relative path from your app to your library.
 - Creates/refreshes the global link
 - Links into the app
 - Warns about peerDependencies
+
+## TODOs
+
+- Add package.json
+- Add tests
+- Improve experience
+  - Enable multiple links at the same time with select/click to link/unlink
+- publish as npm package
