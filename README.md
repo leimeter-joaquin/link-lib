@@ -10,15 +10,6 @@ A tiny Node script that **links a local library into your app** the right way—
 
 ---
 
-## Directory layout
-
-/parent
-├─ app/ # your app (depends on the library)
-└─ library/ # local library, also published to npm
-Place **`link-lib.js`** inside **`app/`**.
-
----
-
 ## Requirements
 
 - Node 16+ (tested on Node 24)
